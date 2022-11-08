@@ -3,6 +3,7 @@ Bellabeat Case Study
 Total 18 CSV files were provided for the purpose of identifying the target audience for a Fitness Smart Watch.
 
 File Management:\
+\
   Case Study Problem Statement: \
     Case_Study_Problem_Statement.pdf\
     \
